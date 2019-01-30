@@ -401,56 +401,6 @@ table a, #comments a{background-color:inherit;}
 
 	#footer{padding-bottom:50px;}/* Not needed, just looks better */
 }
-@-ms-viewport{width:device-width;}
-
-
-/* Max Wrapper Width - Laptop, Desktop etc.
---------------------------------------------------------------------------------------------------------------- */
-@media screen and (min-width:978px){
-	.hoc{max-width:978px;}
-}
-
-
-/* Mobile Devices
---------------------------------------------------------------------------------------------------------------- */
-@media screen and (max-width:900px){
-	.hoc{max-width:90%;}
-
-	#header{padding:30px 0 15px;}
-	#header #logo{margin:0;}
-
-	#mainav{}
-	#mainav ul{display:none;}
-	#mainav form{display:block;}
-
-	#breadcrumb{}
-
-	.container{}
-	#comments input[type="reset"]{margin-top:10px;}
-	.pagination li{display:inline-block; margin:0 5px 5px 0;}
-
-	#footer{}
-
-	#copyright{}
-	#copyright p:first-of-type{margin-bottom:10px;}
-}
-
-
-@media screen and (max-width:750px){
-	.imgl, .imgr{display:inline-block; float:none; margin:0 0 10px 0;}
-	.fl_left, .fl_right{display:block; float:none;}
-	.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
-	.group .group > *:last-child, .clear .clear > *:last-child, .clear .group > *:last-child, .group .clear > *:last-child{margin-bottom:0;}/* Experimental - Needs more testing in different situations, stops double margin when stacking */
-
-	#header{text-align:center;}
-	#header #logo{margin-bottom:15px;}
-
-	.sectiontitle{max-width:none; text-align:left;}
-	.excerpts article{max-width:320px;}
-	#stats{text-align:left;}
-
-	#footer{padding-bottom:50px;}/* Not needed, just looks better */
-}
 
 
 /* Other
@@ -468,55 +418,4 @@ table a, #comments a{background-color:inherit;}
 	#pageintro{padding:140px 0;}
 	#pageintro > div{max-width:none;}
 	#pageintro .heading{font-size:2.2rem;}
-}
-
-
-/* Other
---------------------------------------------------------------------------------------------------------------- */
-@media screen and (max-width:650px){
-	.scrollable{display:block; width:100%; margin:0 0 30px 0; padding:0 0 15px 0; overflow:auto; overflow-x:scroll;}
-	.scrollable table{margin:0; padding:0; white-space:nowrap;}
-
-	.inline li{display:block; margin-bottom:10px;}
-	.pushright li{margin-right:0;}
-
-	.font-x2{font-size:1.4rem;}
-	.font-x3{font-size:1.6rem;}
-
-	#pageintro{padding:140px 0;}
-	#pageintro > div{max-width:none;}
-	#pageintro .heading{font-size:2.2rem;}
-}
-element.style {
-}
-.overlay {
-    color: #FFFFFF;
-    background-color: inherit;
-}
-.wrapper {
-    display: block;
-    position: relative;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-    word-wrap: break-word;
-    element.style {
-}
-@media screen and (max-width: 900px)
-.container {
-}
-@media screen and (max-width: 900px)
-.hoc {
-    max-width: 90%;
-}
-.container {
-    padding: 80px 0;
-}
-.hoc {
-    display: block;
-    margin: 0 auto;
-}
-.clear, .clear::after, .group, .group::after {
-    clear: both;
 }

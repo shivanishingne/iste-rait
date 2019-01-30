@@ -239,7 +239,7 @@ a.btn-banner:focus {
 
 #intro-header {
     padding-top: 40px;
-    color: #199EB8;
+    color: #9d1c32;
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
     padding-bottom: 20px;
@@ -253,13 +253,13 @@ a.btn-banner:focus {
 
 .seperator {
     width: 25%;
-    background: #199EB8;
+    background: #9d1c32;
     height: 5px;
 }
 
 .seperator-feedback {
     width: 25%;
-    background: #199EB8;
+    background: #9d1c32;
     height: 5px;
     float: right;
 }
@@ -323,7 +323,7 @@ a.btn-banner:focus {
     box-shadow: inset 0px 0px 0px 2px #ccc;
 }
 .button-medium {
-    background: #199EB8;
+    background: #9d1c32;
     border-radius: 40px;
     color: #ffffff;
     cursor: pointer;
@@ -381,7 +381,7 @@ a.btn-banner:focus {
 
 /*Header*/
 #header {
-    background: #199EB8;
+    background: #9d1c32;
     height: 70px;
 }
 #header #logo {
@@ -523,7 +523,7 @@ a.btn-banner:focus {
     border-top: 0;
 }
 .nav-menu ul li:hover {
-    background: #199EB8;
+    background: #9d1c32;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
@@ -617,10 +617,10 @@ a.btn-banner:focus {
     color: #fff;
 }
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-    color: #199EB8;
+    color: #9d1c32;
 }
 #mobile-nav ul .menu-item-active {
-    color: #199EB8;
+    color: #9d1c32;
 }
 #mobile-body-overly {
     width: 100%;
@@ -680,7 +680,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 45px;
 }
 .btn {
-    background-color: #199EB8;
+    background-color: #9d1c32;
     font-family: "Roboto", Helvetica, Arial, sans-serif;
     font-weight: 800;
     color: #fff;
@@ -705,7 +705,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .btn-ghost:hover {
     background-color: #fff;
-    color: #199EB8;
+    color: #9d1c32;
 }
 section {
     padding: 85px 0;
@@ -743,7 +743,7 @@ a:hover {
     width: 42px;
     height: 42px;
     border-radius: 50%;
-    background: #199EB8;
+    background: #9d1c32;
     color: #fff;
     text-align: center;
     font-size: 24px;
@@ -765,7 +765,7 @@ a:hover {
     font-weight: 500;
     color: #666;
     margin-top: 30px;
-    border: 6px solid #199EB8;
+    border: 6px solid #9d1c32;
     border-radius: 50%;
     padding: 55px 25px 0 25px;
     position: relative;
@@ -791,13 +791,13 @@ a:hover {
 #teams-header {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-weight: 700;
-    color: steelblue;
+    color: maroon;
     padding-bottom: 30px;
 }
 .teams-subheading {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-weight: 500;
-    color: #199EB8;
+    color: #9d1c32;
 }
 .teams-text {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
@@ -810,7 +810,7 @@ a:hover {
     width: 70px;
     height: 70px;
     margin-bottom: 15px;
-    background: #199EB8;
+    background: #9d1c32;
     color: #fff;
     font-size: 24px;
     text-align: center;
@@ -821,7 +821,7 @@ a:hover {
 .intro-section-header {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-weight: 500;
-    color: #199EB8;
+    color: #9d1c32;
 }
 .intro-section-text {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
@@ -829,7 +829,7 @@ a:hover {
     color: #999;
 }
 .cta {
-    background-color: #199EB8;
+    background-color: #9d1c32;
     padding: 25px 0;
 }
 .cta h2 {
@@ -848,7 +848,7 @@ a:hover {
     top: 13px;
 }
 .team h2 {
-    color: #199EB8;
+    color: #9d1c32;
 }
 .team .col-sm-3 {
     padding: 0;
@@ -886,7 +886,7 @@ a:hover {
     visibility: visible;
 }
 .team .card:hover .card-title-wrap {
-    background-color: #199EB8;
+    background-color: #9d1c32;
 }
 .team .card:hover .card-title-wrap .card-title,
 .team .card:hover .card-title-wrap .card-text {
@@ -990,7 +990,7 @@ a:hover {
     color: #fff;
 }
 .rait {
-    color: #199EB8;
+    color: #9d1c32;
 }
 #logo{
     visibility: hidden;
@@ -1051,7 +1051,7 @@ a:hover {
 }
 
 .work-contain {
-    background: #199EB8;
+    background: #9d1c32;
     position: relative;
 }
 
