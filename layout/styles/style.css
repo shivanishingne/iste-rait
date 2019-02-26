@@ -7,6 +7,11 @@ h6 {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
 
+mark {
+  background-color: #9d1c32;
+  color: white;
+}
+
 p {
     line-height: 1.55;
     color: #333;
